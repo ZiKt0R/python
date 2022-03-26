@@ -7,5 +7,5 @@ while(1) :
         else:
             raise Exception
     except:
-        print("Duplicate not allowed and number should be have 2 digits")
+        print("Duplicates are not allowed and the number should have 2 digits")
         break
