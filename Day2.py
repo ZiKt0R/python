@@ -13,4 +13,4 @@ elif op is '/':
 elif op is '%':
     print(a % b)
 else:
-    print('Wrong input')
+    print('Wrong Operator')
