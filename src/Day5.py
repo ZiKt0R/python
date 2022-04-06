@@ -1,6 +1,6 @@
 n = int(input("Enter the number : "))                      
 p = len(str(n))                                           
-s = 0                                                     
+sum = 0                                                     
 k = n                                                     
 while k>0:                                                
     d = k%10                                              
